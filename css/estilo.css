@@ -1,0 +1,49 @@
+@charset "UTF-8";
+* {
+  padding: 0px;
+  margin: 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  font-family: Rajdhani;
+}
+
+.Background_Color {
+  background-color: #fd1a71 !important;
+}
+
+.text_Color {
+  color: #ffffff !important;
+}
+
+#img {
+  width: 300px !important;
+  -webkit-perspective: 2500;
+          perspective: 2500;
+  -webkit-transition: 1s ease;
+  transition: 1s ease;
+}
+
+#header {
+  background-color: rgb(187, 236, 230) !important;
+}
+
+#card_Tamaño {
+  height: 450px !important;
+}
+
+.barra_Footer {
+  height: 100px;
+  background-color: #fd1a71 !important;
+}
+
+.Redes {
+  height: 70px !important;
+}
+
+.cards_Color {
+  background-color: #fd1a71 !important;
+}

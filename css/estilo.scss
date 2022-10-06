@@ -1,0 +1,32 @@
+@import "./partials/reset";
+
+@import "./partials/variables";
+
+body{width: 100%;
+font-family:$FontaFamily}
+
+.Background_Color {background-color: $BackgroundColor;}
+
+.text_Color{color: $TextColor;}
+
+
+#img {
+    width: 300px !important;
+    perspective: 2500;
+    transition: 1s ease;
+}
+
+#header {    
+    background-color: rgb(187, 236, 230) !important;
+}
+
+
+#card_Tamaño{height: 450px !important;}
+
+.barra_Footer{height: 100px; background-color: $BackgroundColor;}
+
+.Redes {height: 70px !important; }
+
+
+.cards_Color {background-color:#fd1a71 !important;}
+
